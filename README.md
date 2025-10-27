@@ -41,12 +41,12 @@ A modern, web-based tool for visualizing JSON files with beautiful formatting an
 
 ## 🌐 Live Demo
 
-**[Try it now!](https://yourusername.github.io/json-visualizer/)**
+**[Try it now!](https://romeroarcasandres.github.io/json-visualizer/)**
 
 ## 💻 Getting Started
 
 ### Option 1: Use Online (Recommended)
-1. Visit the [live demo](https://yourusername.github.io/json-visualizer/)
+1. Visit the [live demo](https://romeroarcasandres.github.io/json-visualizer/)
 2. Click "Choose JSON File" or drag & drop your file
 3. Your JSON appears instantly in an interactive tree structure!
 
